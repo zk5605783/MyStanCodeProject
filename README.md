@@ -8,7 +8,9 @@ Watch my [stanCode Project](https://github.com/zk5605783/MyStanCodeProject/tree/
  `Karel 爬竿子`\
  [BeeperRowAdv.py](https://github.com/zk5605783/MyStanCodeProject/blob/main/stanCode%20Project/BeeperRowAdv.py)`Karel補空格`\
  [DoubleBeepers.py](https://github.com/zk5605783/MyStanCodeProject/blob/main/stanCode%20Project/DoubleBeepers.py)`Karel 將beeper的數量變為兩倍`\
- [InfiniteLoop.py](
+ [InfiniteLoop.py](https://github.com/zk5605783/MyStanCodeProject/blob/main/stanCode%20Project/InfiniteLoop.py)`範例，非本人製作``while迴圈可能出現的bug`\
+ [MoveToTheEnd](
+ 
  
  
  
